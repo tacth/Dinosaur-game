@@ -321,7 +321,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 960, y: 600}
+  m_TargetSize: {x: 960, y: 540}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -338,8 +338,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -480
     m_HBaseRangeMax: 480
-    m_VBaseRangeMin: -300
-    m_VBaseRangeMax: 300
+    m_VBaseRangeMin: -270
+    m_VBaseRangeMax: 270
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -359,20 +359,20 @@ MonoBehaviour:
       y: 21
       width: 1101
       height: 506
-    m_Scale: {x: 0.84333324, y: 0.8433333}
-    m_Translation: {x: 550.5, y: 252.99998}
+    m_Scale: {x: 0.93703705, y: 0.93703705}
+    m_Translation: {x: 550.5, y: 253}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -652.76685
-      y: -300
-      width: 1305.5337
-      height: 600
+      x: -587.4901
+      y: -270
+      width: 1174.9802
+      height: 540
     m_MinimalGUI: 1
-  m_defaultScale: 0.8433333
+  m_defaultScale: 0.93703705
   m_LastWindowPixelSize: {x: 1101, y: 527}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -421,7 +421,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 76e0ffff88e0ffff3ee4ffff64e4ffff74eeffff86eeffff6cf2ffff92f2ffff02fbffff
+      m_ExpandedIDs: 02fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -913,9 +913,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 2.1111243, y: 0.44362134, z: -0.0933627}
+    m_Target: {x: 835.3435, y: 519.2538, z: -0.5339611}
     speed: 2
-    m_Value: {x: 2.1111243, y: 0.44362134, z: -0.0933627}
+    m_Value: {x: 835.3435, y: 519.2538, z: -0.5339611}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -965,9 +965,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 9.957814
+    m_Target: 94.627144
     speed: 2
-    m_Value: 9.957814
+    m_Value: 94.627144
   m_Ortho:
     m_Target: 1
     speed: 2
